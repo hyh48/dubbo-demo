@@ -11,7 +11,12 @@ import java.io.IOException;
 @EnableAutoConfiguration
 public class GenericDubboConsumerDemo {
 
-
+    /**
+        泛化调用，将提供者暴露出来的DemoService强转成GenericService
+        利用invoke方法调用
+        不用在pom中引入interface，不需要import DemoService这个类
+        也能调用到DemoService
+     */
     @Reference(id = "demoService", version = "default", interfaceName = "com.tuling.DemoService", generic = true)
     private GenericService genericService;
 

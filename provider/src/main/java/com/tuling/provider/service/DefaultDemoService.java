@@ -10,7 +10,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 
-@Service(version = "default")
+@Service(version = "default",protocol = "p1")
 public class DefaultDemoService implements DemoService {
 
     @Override

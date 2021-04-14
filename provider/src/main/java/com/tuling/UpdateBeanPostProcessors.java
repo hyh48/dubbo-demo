@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class UpdateBeanPostProcessors implements BeanPostProcessor {
 
+    @Override
     public Object postProcessBeforeInitialization(Object bean, String beanName) throws BeansException {
 
         if (beanName.contains("ServiceBean")) {
