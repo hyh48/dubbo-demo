@@ -5,40 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e1d083-20ff-4c53-a5c1-fdf9f24ddf4d" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/provider/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/consumer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/tuling/DubboConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/tuling/DubboConsumerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/tuling/consumer/GenericDubboConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/tuling/consumer/GenericDubboConsumerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/tuling/consumer/MockDubboConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/tuling/consumer/MockDubboConsumerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/META-INF/consumer.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/tuling/DubboConsumerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/target/classes/com/tuling/DubboConsumerDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/tuling/consumer/MockDubboConsumerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/target/classes/com/tuling/consumer/MockDubboConsumerDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/interface/interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/provider.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/tuling/UpdateBeanPostProcessors.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/tuling/UpdateBeanPostProcessors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/AsyncDemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/AsyncDemoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/CallBackDemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/CallBackDemoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/DefaultDemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/DefaultDemoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/GenericDemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/GenericDemoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/RestDemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/RestDemoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/TimeoutDemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/tuling/provider/service/TimeoutDemoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/META-INF/provider.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/tuling/DubboProviderDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/tuling/UpdateBeanPostProcessors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/tuling/provider/service/AsyncDemoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/tuling/provider/service/CallBackDemoService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/tuling/provider/service/CallBackDemoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/tuling/provider/service/DefaultDemoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/tuling/provider/service/GenericDemoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/tuling/provider/service/RestDemoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/tuling/provider/service/TimeoutDemoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/tuling/consumer/GenericDubboConsumerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/target/classes/com/tuling/consumer/GenericDubboConsumerDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +32,7 @@
       <MavenGeneralSettings>
         <option name="alwaysUpdateSnapshots" value="true" />
         <option name="localRepository" value="C:\Environment\apache-maven-3.8.1\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../Environment/apache-maven-3.8.1" />
         <option name="userSettingsFile" value="C:\Environment\apache-maven-3.8.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -96,21 +65,21 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Perforce" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.tuling.protocol" />
-      <recent name="com.tuling.controller" />
-      <recent name="com.tuling.provider.service" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RRRRosie\Desktop\projects\dubbo-tuling-demo\provider\src\test\java" />
       <recent name="D:\IdeaProjects\dubbo-tuling-demo" />
       <recent name="D:\IdeaProjects\dubbo-tuling-demo\dubbo-rpc-tuling\src\main\resources\META-INF\dubbo" />
       <recent name="D:\IdeaProjects\dubbo-tuling-demo\dubbo-rpc-tuling\src\main\java\com\tuling\protocol" />
       <recent name="D:\IdeaProjects\dubbo-tuling-demo\consumer\src\main\resources" />
-      <recent name="D:\IdeaProjects\dubbo-tuling-demo\provider\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tuling.protocol" />
+      <recent name="com.tuling.controller" />
+      <recent name="com.tuling.provider.service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -212,8 +181,16 @@
       <workItem from="1618280596191" duration="1396000" />
       <workItem from="1618318102551" duration="1304000" />
       <workItem from="1618381347590" duration="88000" />
-      <workItem from="1618395251225" duration="950000" />
+      <workItem from="1618395251225" duration="2681000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1618396340454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618396340454</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
